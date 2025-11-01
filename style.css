@@ -1,0 +1,14 @@
+/* Remove default spacing */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background-color: #3498db;
+  color: rgb(0,32,96);
+  padding: 20px;
+  text-align: center;
+  width: 100%;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
