@@ -6,9 +6,25 @@ body {
 
 .header {
   background-color: #3498db;
-  color: rgb(0,32,96);
+  color: rgb(255,255,255);
   padding: 20px;
   text-align: center;
   width: 100%;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
 }
+
+.question {
+  background-color: #3498db;
+  color: rgb(0,0,0);
+  padding: 20px;
+  text-align: center;
+  width: 50%;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+
+.tally {
+  background-color: #3498db;
+  color: rgb(0,0,0);
+  padding: 20px;
+  text-align: center;
+  width: 50%;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
